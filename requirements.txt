@@ -1,6 +1,16 @@
-﻿# GenAI Inter Project Requirements
-# Generated from analysis of all project files
-
-# Core Dependencies
+# GenAI Inter Project & SmartHire Enterprise Requirements
 google-generativeai
 python-dotenv
+langchain>=1.4.0
+langchain-community>=0.4.0
+langchain-google-genai>=4.4.0
+google-genai>=2.30.0
+faiss-cpu>=1.15.0
+pypdf>=6.20.0
+python-docx>=1.2.0
+streamlit>=1.52.0
+pandas>=2.0.0
+numpy>=2.0.0
+scikit-learn>=1.5.0
+reportlab>=5.0.0
+tabulate>=0.10.0
